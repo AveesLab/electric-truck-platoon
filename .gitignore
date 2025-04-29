@@ -1,0 +1,23 @@
+# Simulink temporary and generated files
+slprj/
+*_ert_rtw/
+*.slxc
+*.asv
+*.autosave
+*.mex*
+*.log
+*.mdl.rtw
+*.rpt
+
+# MATLAB temporary
+*.asv
+*.bak
+*.mat
+*.fig
+
+# VS Code settings
+.vscode/
+
+# OS generated
+Thumbs.db
+.DS_Store
